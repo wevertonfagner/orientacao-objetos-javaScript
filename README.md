@@ -1,3 +1,3 @@
 # Programação orientada a objetos com JavaScript
-neste repositório estou praticando a programação orientada a objetos.
+neste repositório estou praticando a programação orientada a objetos.<br>
 praticando tecnicas de hierarquia, encapsulamento, polimosfismo, geters e seters...
